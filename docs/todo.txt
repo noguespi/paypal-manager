@@ -1,0 +1,3 @@
+editer un plan
+navbar bootstrap pour le menu header
+changer le comportement du loader (peut être le virer et utilisé le loader de CommonKeyword), sinon ettre dans le header>navbar. Précisé pourquoi on load également (fetching plans/editing plan/creating plan...)

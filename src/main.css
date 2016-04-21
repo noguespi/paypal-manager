@@ -1,0 +1,8 @@
+.paydef input,
+.paydef select {
+    padding: 6px 6px;
+}
+
+body {
+    padding-bottom: 100px;
+}
