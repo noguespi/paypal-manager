@@ -4,8 +4,8 @@ It is an **unifinished** Paypal subscription manager based on [Paypal REST API](
 
 ### How to run
 
-edit credentials.js
-npm start
+* Edit credentials.js
+* npm start
 
 ### Features
 
