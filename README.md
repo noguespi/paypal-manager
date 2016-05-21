@@ -4,7 +4,8 @@ It is an **unifinished** Paypal subscription manager based on [Paypal REST API](
 
 ### How to run
 
-* Edit credentials.js
+* copy credentials.sample.js to credentials.js and fill with your API keys from [https://developer.paypal.com](https://developer.paypal.com)
+* npm install
 * npm start
 
 ### Features

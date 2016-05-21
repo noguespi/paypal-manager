@@ -16,9 +16,8 @@ import PlansContainer from "./containers/PlansContainer";
 import PlanNewContainer from "./containers/PlanNewContainer";
 import PlanEditContainer from "./containers/PlanEditContainer";
 
-console.time("paypal.configure");
+console.log("paypal.configure", creds);
 paypal.configure(creds);
-console.timeEnd("paypal.configure");
 
 
 const loggerMiddleware = createLogger();
